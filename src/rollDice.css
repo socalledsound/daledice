@@ -1,0 +1,48 @@
+* {
+  text-align: center;
+}
+
+.rollButton {
+    width: 5rem;
+    height: 3rem;
+    background: #44C4E7;
+    color: #fff;
+    padding-right: 1rem;
+    border: solid 0.1rem grey;
+    border-radius: 0.3rem;
+    font-size: 0.75rem;
+    text-align: center;
+    text-shadow: 0 1px 1px rgba(160, 160, 160, 0.75);
+    vertical-align: middle;
+    
+    
+}
+
+.selector {
+    display: inline-flex;
+    padding: 5px;
+    
+    
+}
+
+.submit {
+  display: inline-flex;
+  padding: 5px;
+  width: 3rem;
+  height: 2rem;
+  background: #0ec517;
+  color: #fff;
+  padding-right: 1rem;
+  border: solid 0.1rem grey;
+  border-radius: 0.3rem;
+  font-size: 0.75rem;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(160, 160, 160, 0.75);
+  vertical-align: middle;
+}
+
+.diceDisplay {
+  width: 100%;
+  height: auto;
+  
+}

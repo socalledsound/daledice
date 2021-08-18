@@ -1,0 +1,25 @@
+.navContainer {
+    height: 130px;
+    background-color: #606065;
+}
+  
+.nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 1.2rem;
+}
+
+.linkContainer {
+    margin-left: 0.4rem;
+    margin-right: 4rem;
+    padding: 0.8rem;
+}
+
+.link {
+    text-decoration: none;
+    color: green;
+}
+
+.link:hover {
+    color: aqua;
+}
